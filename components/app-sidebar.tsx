@@ -60,7 +60,7 @@ const data = {
       items: [
         {
           title: "Order",
-          url: "#",
+          url: "/admin/order",
         },
       ],
     },
@@ -75,11 +75,11 @@ const data = {
       items: [
         {
           title: "Products",
-          url: "#",
+          url: "/admin/product",
         },
         {
           title: "Add Product",
-          url: "#",
+          url: "/admin/product/create",
         },
       ],
     },
